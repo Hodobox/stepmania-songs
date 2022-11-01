@@ -1,2 +1,2 @@
 # stepmania-songs
-Pad songs for stepmania/ddr. Glhf.
+Pad songs for stepmania/DDR. Glhf.
