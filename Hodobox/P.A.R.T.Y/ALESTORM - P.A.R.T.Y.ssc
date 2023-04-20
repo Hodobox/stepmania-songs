@@ -19,7 +19,7 @@
 #STOPS:;
 #WARPS:471.000=4.000;
 #ATTACKS:TIME=201.215:LEN=1.000:MODS=Stealth;
-#BGCHANGES:-0.14=video.mp4=1.000=1=0=0=StretchNoLoop==CrossFade==;
+#BGCHANGES:2.193=trimmed.mp4=1.000=1=0=0=StretchNoLoop==CrossFade==;
 #FGCHANGES:;
 //--------------- dance-single - Hodobox ----------------
 #NOTEDATA:;
