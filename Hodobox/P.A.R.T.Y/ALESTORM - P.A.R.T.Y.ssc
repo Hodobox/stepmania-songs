@@ -25,6 +25,7 @@
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
+#CREDIT:Hodobox;
 #DIFFICULTY:Easy;
 #METER:4;
 #RADARVALUES:0,0,0,0,0;
@@ -1769,6 +1770,7 @@ M00M
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
+#CREDIT:Hodobox;
 #DIFFICULTY:Medium;
 #METER:6;
 #RADARVALUES:0,0,0,0,0;
@@ -3541,6 +3543,7 @@ M00M
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
+#CREDIT:Hodobox;
 #DIFFICULTY:Hard;
 #METER:9;
 #RADARVALUES:0,0,0,0,0;
@@ -5680,6 +5683,7 @@ MM00
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Wilder movements;
+#CREDIT:Wilder movements;
 #DIFFICULTY:Challenge;
 #METER:9;
 #RADARVALUES:0,0,0,0,0;
