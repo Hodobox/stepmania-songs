@@ -33,6 +33,7 @@
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
+#CREDIT:Hodobox;
 #DIFFICULTY:Medium;
 #METER:5;
 #RADARVALUES:0,0,0,0,0;
@@ -925,6 +926,7 @@ M00M
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
+#CREDIT:Hodobox;
 #DIFFICULTY:Challenge;
 #METER:9;
 #RADARVALUES:0,0,0,0,0;
