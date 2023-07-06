@@ -1,3 +1,5 @@
 *.old
 *.flac
+*.opus
+*.wtf
 Metronome/
