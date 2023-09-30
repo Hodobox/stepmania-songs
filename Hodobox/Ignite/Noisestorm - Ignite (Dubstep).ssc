@@ -147,7 +147,7 @@
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
-#DIFFICULTY:Hard;
+#DIFFICULTY:Challenge;
 #METER:11;
 #RADARVALUES:0,0,0,0,0;
 #CREDIT:Hodobox;
@@ -2679,19 +2679,5 @@ M0M0
 0000
 0000
 0030
-0000
-;
-//--------------- dance-single - Hodobox ----------------
-#NOTEDATA:;
-#STEPSTYPE:dance-single;
-#DESCRIPTION:Hodobox;
-#DIFFICULTY:Challenge;
-#METER:11;
-#RADARVALUES:0,0,0,0,0;
-#CREDIT:Hodobox;
-#NOTES:
-0000
-0000
-0000
 0000
 ;
