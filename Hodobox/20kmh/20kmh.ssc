@@ -35,6 +35,7 @@
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
+#CREDIT:Hodobox;
 #DIFFICULTY:Beginner;
 #METER:4;
 #RADARVALUES:0,0,0,0,0;
@@ -791,6 +792,7 @@ MMMM
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
+#CREDIT:Hodobox;
 #DIFFICULTY:Easy;
 #METER:6;
 #RADARVALUES:0,0,0,0,0;
@@ -1951,6 +1953,7 @@ MMMM
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
+#CREDIT:Hodobox;
 #DIFFICULTY:Medium;
 #METER:8;
 #RADARVALUES:0,0,0,0,0;
@@ -4228,6 +4231,7 @@ MMMM
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
 #DIFFICULTY:Hard;
+#CREDIT:Hodobox;
 #METER:9;
 #RADARVALUES:0,0,0,0,0;
 #NOTES:
@@ -6819,6 +6823,7 @@ MMMM
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
+#CREDIT:Hodobox;
 #DIFFICULTY:Challenge;
 #METER:10;
 #RADARVALUES:0,0,0,0,0;
@@ -9643,6 +9648,7 @@ MMMM
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:if you really need them all;
+#CREDIT:if you really need them all;
 #DIFFICULTY:Edit;
 #METER:11;
 #RADARVALUES:0,0,0,0,0;
