@@ -8,7 +8,7 @@
 #GENRE:;
 #CREDIT:Hodobox;
 #MUSIC:Elder-Hymn.ogg;
-#BANNER:;
+#BANNER:bn.png;
 #BACKGROUND:bg.jpg;
 #CDTITLE:;
 #SAMPLESTART:9.622;
@@ -34,10 +34,10 @@
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
-#CREDIT:Hodobox;
 #DIFFICULTY:Easy;
 #METER:5;
 #RADARVALUES:0,0,0,0,0;
+#CREDIT:Hodobox;
 #NOTES:
 0000
 0000
@@ -579,10 +579,10 @@ M000
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
-#CREDIT:Hodobox;
 #DIFFICULTY:Medium;
 #METER:9;
 #RADARVALUES:0,0,0,0,0;
+#CREDIT:Hodobox;
 #NOTES:
 0000
 0000
@@ -1376,10 +1376,10 @@ M000
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
-#CREDIT:Hodobox;
 #DIFFICULTY:Hard;
 #METER:11;
 #RADARVALUES:0,0,0,0,0;
+#CREDIT:Hodobox;
 #NOTES:
 0000
 0000
@@ -2189,10 +2189,10 @@ M000
 #NOTEDATA:;
 #STEPSTYPE:dance-single;
 #DESCRIPTION:Hodobox;
-#CREDIT:Hodobox;
 #DIFFICULTY:Challenge;
 #METER:13;
 #RADARVALUES:0,0,0,0,0;
+#CREDIT:Hodobox;
 #NOTES:
 0000
 0000
