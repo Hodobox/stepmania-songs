@@ -6,7 +6,7 @@
 #ARTISTTRANSLIT:;
 #GENRE:;
 #CREDIT:Hodobox;
-#MUSIC:Sonne.ogg;
+#MUSIC:Sonne trimmed.ogg;
 #BANNER:bn.png;
 #BACKGROUND:bg.png;
 #CDTITLE:;
@@ -16,7 +16,7 @@
 #OFFSET:-0.210;
 #BPMS:0.000=150.051;
 #STOPS:;
-#BGCHANGES:;
+#BGCHANGES:-0.210=Rammstein - Sonne.avi=1.000=1=0=0=StretchNoLoop==CrossFade==;
 #FGCHANGES:;
 //--------------- dance-single - Hodobox ----------------
 #NOTES:
